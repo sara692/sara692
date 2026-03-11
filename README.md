@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Sarah Ibrahim**
+# 👋 Hi, I'm **Sara Ibrahim**
 ### 📌 AI Engineer
 
 An AI Engineer passionate about building intelligent systems that solve real-world problems. I specialize in **Large Language Models (LLMs), Generative AI, and Agentic AI** — designing systems that can reason, retrieve information, and act autonomously to complete complex tasks.

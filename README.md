@@ -57,8 +57,8 @@ Currently deepening my expertise in **Agentic AI systems** — building multi-st
 ---
 
 ## 🎓 **Certifications & Education**
-- ✅ ALX Data Science Program — *Completed*
 - 🚀 Digital Egypt Pioneer Institute (DEPI) — *Generative AI & Agentic AI Professional (In Progress)*
+- ✅ ALX Data Science Program — *Completed*
 
 ---
 

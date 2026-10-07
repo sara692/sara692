@@ -169,7 +169,7 @@ Data Analytics
 * 🐍 **The Complete Python Automation Course** — Udemy
 * 🤖 **AI Career Essentials** — ALX
 * 📡 **CCNA** — NTI
-* 📡 Telecom Certifications — LTE Optimization, 5G Principles, etc.
+* 📡 **Telecom Certifications** — LTE Optimization, 5G Principles, etc.
 
 ---
 
